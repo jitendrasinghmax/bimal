@@ -8,7 +8,7 @@ const Hero = () => {
                 <div className="text-3xl sm:text-6xl font-extrabold text-orange-950">Zuban</div>
                 <div className="text-3xl sm:text-6xl font-extrabold text-white">Canceri</div>
             </div>
-            <div className="text-xs sm:text-md font-semibold">More you sooner you Die.</div>
+            <div className="text-xs sm:text-md font-semibold">More You Eat, Sooner You Die.</div>
             <button onClick={()=>navigate('/mycart')}  className="bg-white p-2 text-orange-900 rounded-lg font-semibold">Die Now</button>
             <img src={Ajay} className='w-[588px]'></img>
         </div>
